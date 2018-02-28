@@ -17,8 +17,10 @@ git push
 git pull
 
 ###信息
+
 git status
 
 ###配置相关
+
 git config --global core.editor vim
 
