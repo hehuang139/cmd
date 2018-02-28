@@ -5,6 +5,7 @@ git init
 git add -A
 3. 新增
 git commit -m "comment"
+
 ###远程仓库
 1. 新增远程仓库
 git remote add origin https://...
@@ -14,6 +15,7 @@ git pull origin master
 3. 远程仓库
 git push
 git pull
+
 ###信息
 git status
 
